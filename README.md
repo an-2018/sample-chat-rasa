@@ -15,7 +15,11 @@ $ .ven_name\scripts\activate
 
 # for windows sometimes requires the following comand if the previous one gives a error
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+```
 
+## Install
+```bash
 # install requirimens
 $ pip -r install requirements.txt
+
 ```
